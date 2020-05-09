@@ -1,5 +1,5 @@
 # chew-books
-Javascript、Python读书笔记
+JavaScript、Python读书笔记
 
 **书籍主要由以下几个部分组成:**
 
